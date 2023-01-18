@@ -1,0 +1,22 @@
+{
+  "name": "house",
+  "version": "1.0.0",
+  "description": "app to control house payment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioenrique93/nodeApp.git"
+  },
+  "keywords": [
+    "jemp"
+  ],
+  "author": "Julio Enrique Moreno Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julioenrique93/nodeApp/issues"
+  },
+  "homepage": "https://github.com/julioenrique93/nodeApp#readme"
+}
